@@ -1,7 +1,7 @@
 # Retreat Workshops!
 Please clone this git repository and then navigate to the corresponding workshop when you are prompted to!
 ```(bash)
-#move into where you want to save the project, then execute
+# Move into where you want to save the project, then execute
 git clone https://github.com/texasluminescence/retreat_workshops.git
 ```
 
