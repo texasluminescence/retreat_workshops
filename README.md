@@ -35,8 +35,11 @@ Reflect on web app pros/cons
 Collaboratively develop a new product concept
 
 ### Standards - How We Build and Launch Apps
+
 **Lecturers**: Ryn Singleton, Victoria Reddy
+
 **Demo**: Docker + a live app deployment
+
 **Breakout**: Pick two volunteers to identify the most cost-effective development strategy
 
 ***Workshop Goals:***
@@ -53,10 +56,12 @@ Show how we handle sourcing data and managing app finances
 
 Make cost-conscious development choices
 
-###Frontend - Building Native Interfaces with React
+### Frontend - Building Native Interfaces with React
 
 **Lecturers**: Carine Harb, Gautham Mohanraj
+
 **Demo**: React Demo Starter
+
 **Breakout**: TBH
 
 ***Workshop Goals:***
@@ -68,10 +73,12 @@ Familiarize students with styling, routing, and state management
 
 Start from template code and build something new
 
-###Backend - Web Services, APIs, and Tradeoffs
+### Backend - Web Services, APIs, and Tradeoffs
 
 **Lecturers**: Ryn Singleton, Ashi Sharma
+
 **Demo**: 
+
 **Breakout**: 
 
 ***Workshop Goals:***
@@ -86,10 +93,12 @@ Walk through how to set up a production-ready backend
 
 Explore how we host and scale services using AWS, Docker, GitHub Pages
 
-###Machine Learning - Data and You
+### Machine Learning - Data and You
 
 **Lecturers**: Ashi Sharma, Gautham Mohanraj
+
 **Demo**: 
+
 **Breakout**: 
 
 ***Workshop Goals:***
@@ -104,10 +113,12 @@ Discuss real-world applications of ML in product design
 
 Explore ethical considerations around data and model use
 
-###Product - Sprinting from Idea to MVP
+### Product - Sprinting from Idea to MVP
 
 **Lecturers**: Victoria Reddy, Janine
+
 **Demo**: 
+
 **Breakout**: 
 
 ***Workshop Goals:***
